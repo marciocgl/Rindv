@@ -1,4 +1,4 @@
-# Rpol
+# Rindv
 Código fonte exemplo para o cálculo da justiça individual de um sistema de recomendação
 
 
